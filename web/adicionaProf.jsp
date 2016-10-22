@@ -18,9 +18,7 @@
 
         <script src="js/jquery-ui.js"></script>
         <link rel="stylesheet" href="css/jquery-ui.css"> 
-        <script src="index/ie-emulation-modes-warning.js.download"></script>
-	<script src="/admin2.js"></script>
-        
+                
         <title>Cadastro de Professor</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
